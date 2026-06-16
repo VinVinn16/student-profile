@@ -201,8 +201,8 @@ ul,ol{
 }
 
 .project-image{
-    width:100%;
-    max-width:280px;
+    width:100%;  
+    max-width:450px;
     border-radius:12px;
     display:block;
     margin:15px auto;
